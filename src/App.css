@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Bhaijaan+2&display=swap');
+
+body {
+    background: #FFCC00;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Baloo Bhaijaan 2', cursive;;
+}
+
+.top-bar {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.pkm-grid {
+    max-width: 1026px;
+    display: flex;
+    flex-flow: row wrap;
+}
